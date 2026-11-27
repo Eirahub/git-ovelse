@@ -10,3 +10,4 @@ while igjen == "j":
             break
         print("Feil, prøv igjen")
     igjen = input("Vil du spille igjen? (j/n) ")
+print("Ha det bra!")
